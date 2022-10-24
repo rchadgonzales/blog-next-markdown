@@ -32,3 +32,43 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+#
+
+#
+
+# Blog App with Next.js and Markdown
+
+This is the project from the [YouTube](https://www.youtube.com/watch?v=MrjeefD8sac). It is a simple static blog using Markdown and Next.js.
+
+## Usage
+
+Install the dependencies:
+
+```
+npm install
+```
+
+Run dev server:
+
+```
+npm run dev
+```
+
+Build for prod and export static website:
+
+```
+npm run build
+```
+
+## Deploy
+
+[Deploy to Vercel](https://vercel.com/)
+
+## View Site
+
+[DEMO](https://blog-next-markdown.vercel.app/)
+
+```
+https://blog-next-markdown.vercel.app
+```
